@@ -1,0 +1,6 @@
+data/
+graphs/
+logs/
+results/
+tables/
+utils/__pycache__/
